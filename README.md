@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning: GANs
 - 👯 I’m looking to collaborate on: cool projects
 - 🤔 I’m looking for help with: DeepFakes, there's a project idea I'd like to pursue that uses deepfakes to for sport coaching
-- 📫 How to reach me: hsha826@aucklandun.ac.nz https://www.linkedin.com/in/hajar-sadek/
+- 📫 How to reach me: hsha826@aucklandun.ac.nz https://www.linkedin.com/in/h-sharood/
 - ⚡ Fun fact: I'm an Archer! It's objectively the best sport ever! :D
